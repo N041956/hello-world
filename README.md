@@ -1,2 +1,3 @@
 # hello-world
-Github exercise
+Github exercise: 
+iced Americano with a metal straw!
